@@ -1,7 +1,7 @@
 
-# 🧪 Flask Mock JSON Server
+# 🧪 Mock JSON Server
 
-A simple Flask-based mock server that serves JSON responses from files, based on the request path and method.  
+A simple mock server that serves JSON responses from files, based on the request path and method.  
 Designed to quickly prototype APIs or test clients without implementing backend logic.
 
 ## 📋 Features
